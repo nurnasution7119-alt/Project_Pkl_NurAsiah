@@ -1,2 +1,2 @@
-# latihan-pkl
-Latihan Git dan GitHub selama Praktik Kerja Lapangan
+# Project_Pkl_NurAsiah
+Latihan Git dan GitHub yang dilakukan oleh Nur Asiah selama kegiatan Praktik Kerja Lapangan (PKL) di PT. Aksara Media Teknologi.
